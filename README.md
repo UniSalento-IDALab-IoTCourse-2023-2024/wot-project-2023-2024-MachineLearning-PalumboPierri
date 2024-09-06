@@ -1,5 +1,5 @@
 # Per vedere la Web Page [Progetto WoT - Palumbo & Pierri](https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-presentation-PalumboPierri/ )
-# Classificazione Audio con Reti Neurali
+# Classificazione Audio con Machine Learning
 
 Questo progetto dimostra un sistema di classificazione audio utilizzando una rete neurale addestrata sul dataset UrbanSound8K. Il modello è in grado di classificare suoni ambientali come condizionatori, sirene, trapani, ecc.
 
